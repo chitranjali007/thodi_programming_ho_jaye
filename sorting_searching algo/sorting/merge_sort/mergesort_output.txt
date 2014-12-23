@@ -1,0 +1,6 @@
+enter the number of elements: 10
+
+enter elements:5 9 89 7 456 897 90 12 1 23
+
+sorted array is:
+1 5 7 9 12 23 89 90 456 897

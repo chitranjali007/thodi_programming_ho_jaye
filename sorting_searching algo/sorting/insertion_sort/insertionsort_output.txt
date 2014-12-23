@@ -1,0 +1,6 @@
+enter the number of elements: 10
+
+enter elements: 2 6 4 9 7 0 1 45 78 5
+
+sorted array is:
+0 1 2 4 5 6 7 9 45 78
